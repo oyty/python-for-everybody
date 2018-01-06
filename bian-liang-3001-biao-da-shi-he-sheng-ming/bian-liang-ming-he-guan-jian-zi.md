@@ -19,7 +19,7 @@ SyntaxError: invalid syntax
 Python中有33个关键字：
 
 | del      | from     | elif     | global  | else   |
-| :--------: | :--------: | :--------: | :--: | :------: |
+| :--------: | :--------: | :--------: | :--: | :--: |
 | **if**  | **except**   | **import**   | **False**  | **in**   |
 | **None**  | **True** | **nonlocal** | **try** |  **not**   |
 | **while**    | **or**  |  **with**    | **pass**| **yield**  |
