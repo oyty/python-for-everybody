@@ -14,4 +14,11 @@
 >>> print(pi)
 3.141592653589793
 ```
+一个变量的类型就是变量的值所代表的类型：
+```python
+>>> type(message) <class 'str'>
+>>> type(n) <class 'int'>
+>>> type(pi) <class 'float'>
+```
+
 
