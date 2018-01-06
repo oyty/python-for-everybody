@@ -9,4 +9,5 @@
   * [运算符和运算对象](bian-liang-3001-biao-da-shi-he-sheng-ming/yun-suan-fu-he-yun-suan-dui-xiang.md)
   * [表达式](bian-liang-3001-biao-da-shi-he-sheng-ming/biao-da-shi.md)
   * [运算符的操作顺序](bian-liang-3001-biao-da-shi-he-sheng-ming/yun-suan-fu-de-cao-zuo-shun-xu.md)
+  * [取余运算](bian-liang-3001-biao-da-shi-he-sheng-ming/qu-yu-yun-suan.md)
 
