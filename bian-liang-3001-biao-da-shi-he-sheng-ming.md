@@ -20,3 +20,8 @@ python
 
 看起来并不意外，字符串输属于`str`类型，整型属于`int`类型，或许你可以猜到带小数点的数字是`float`类型，这叫做浮点型(`floating point`)。
 
+``` python
+>>> type(3.2) 
+<class 'float'>
+```
+
