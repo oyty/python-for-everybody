@@ -13,3 +13,16 @@ SyntaxError: invalid syntax
 >>> class = 'Advanced Theoretical Zymurgy' 
 SyntaxError: invalid syntax
 ```
+
+`76trombones`就是不合法的，因为它以数字开头，`more@`也是不合法的，因为它包含一个不合法的字符@，但是`class`为什么也是不合法的呢？
+那是因为`class`是Python的一个关键词，解释器要用到关键词去识别程序的结构，所以它们不能用作变量名。
+Python中有33个关键词：
+del       from       elif      global       else      
+if        except     import    False        in
+None      True       nonlocal  try          not
+while     or         with      pass         yield
+and       as         assert    break        class
+continue  finally    is        raise        def
+for       lambda     return
+
+你应该把这些关键词保存在手边，如果解释器对你的一个变量名报语法错误，但是你又不知道为什么，或许你应该检查检查你的关键词列表。
