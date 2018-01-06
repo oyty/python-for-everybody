@@ -11,7 +11,7 @@ python
 
 如果你不确定一个数值是什么类型，那么解释器会告诉你：
 
-```python
+``` python
 >>> type('Hello, World!') 
 <class 'str'>
 >>> type(17)
