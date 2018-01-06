@@ -10,4 +10,6 @@
   * [表达式](variables-expressions-statements/expressions.md)
   * [运算符的操作顺序](variables-expressions-statements/order-of-operations.md)
   * [取余运算](variables-expressions-statements/modulus-operator.md)
+  * [字符串操作](variables-expressions-statements/string-operations.md)
+  * [用户主动输入](variables-expressions-statements/asking-the-user-for-input.md)
 
