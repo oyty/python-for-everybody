@@ -17,14 +17,14 @@ SyntaxError: invalid syntax
 `76trombones`就是不合法的，因为它以数字开头，`more@`也是不合法的，因为它包含一个不合法的字符@，但是`class`为什么也是不合法的呢？
 那是因为`class`是Python的一个关键字，解释器要用到关键字去识别程序的结构，所以它们不能用作变量名。
 Python中有33个关键字：
-| del      | from     | elif   | global  | else   |
-| -------- | -------- | ------ | ------- | ------ |
-| if|except |    import   | False |       in |
-| None    |  True    |   nonlocal | try    |      not |
-| while    | or       |  with     | pass    |     yield |
-| and      | as        | assert   | break    |    class |
-| continue | finally   | is      |  raise     |   def |
-| for      | lambda    | return |  | |
+| del      | from     | elif     | global  | else   |
+| -------- | -------- | -------- | ------- | ------ |
+| if       | except   | import   | False   |  in    |
+| None     | True     | nonlocal | try     |  not   |
+| while    | or       |  with    | pass    | yield  |
+| and      | as       | assert   | break   | class  |
+| continue | finally  | is       | raise   |  def   |
+| for      | lambda   | return   |         |        |
 
 
 
