@@ -18,11 +18,12 @@ SyntaxError: invalid syntax
 那是因为`class`是Python的一个关键字，解释器要用到关键字去识别程序的结构，所以它们不能用作变量名。
 Python中有33个关键字：
 | del  | from | elif | global |  else  |
-if        except     import    False        in
-None      True       nonlocal  try          not
-while     or         with      pass         yield
-and       as         assert    break        class
-continue  finally    is        raise        def
-for       lambda     return
+| :------------ |:-------:|:-------:|:-------:| -----:|
+if    |    except |    import   | False |       in |
+None    |  True    |   nonlocal | try    |      not |
+while    | or       |  with     | pass    |     yield |
+and      | as        | assert   | break    |    class |
+continue | finally   | is      |  raise     |   def |
+for      | lambda    | return |
 
 你应该把这些关键字保存在手边，如果解释器对你的一个变量名报语法错误，但是你又不知道为什么，或许你应该检查检查你的关键字列表。
