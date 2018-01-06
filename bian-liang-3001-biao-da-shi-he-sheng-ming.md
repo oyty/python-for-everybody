@@ -9,6 +9,14 @@ python
 4
 ```
 
+如果你不确定一个数值是什么类型，那么解释器会告诉你：
+```python
+>>> type('Hello, World!') <class 'str'>
+>>> type(17)
+<class 'int'>
+```
+
+
 
 
 
