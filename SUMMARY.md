@@ -12,4 +12,5 @@
   * [取余运算](variables-expressions-statements/modulus-operator.md)
   * [字符串操作](variables-expressions-statements/string-operations.md)
   * [用户主动输入](variables-expressions-statements/asking-the-user-for-input.md)
+  * [注释](variables-expressions-statements/comments.md)
 
