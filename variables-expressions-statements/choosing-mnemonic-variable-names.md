@@ -36,5 +36,10 @@ for word in words:
 for slice in pizza: 
     print(slice)
 ```
+初学者可以很容易地分辨出哪些是Python的保留字，哪些是程序员自己定义的变量名，显然，Python是不能理解slice和pizza的差别的。
+
+**for** word **in** words:
+        **print** word
+
 
 
