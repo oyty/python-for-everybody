@@ -7,3 +7,16 @@ c=a*b
 print(c)
 ```
 
+```python
+hours = 35.0
+rate = 12.50
+pay = hours * rate
+print(pay)
+```
+
+```python
+x1q3z9ahd = 35.0
+x1q3z9afd = 12.50
+x1q3p9afd = x1q3z9ahd * x1q3z9afd
+print(x1q3p9afd)
+```
