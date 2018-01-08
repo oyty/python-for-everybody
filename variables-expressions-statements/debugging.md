@@ -22,4 +22,14 @@ SyntaxError: invalid token
 NameError: name 'principle' is not defined
 ```
 
+变量名是区分大小写的，比如LaTex和latex是不一样的。
+
+最容易出现的语义错误是运算顺序，比如`1/2π`，你很有可能会写成：
+```python
+>>> 1.0 / 2.0 * pi
+```
+程序原本的意思是先计算2*π，然后计算除法，可是代码中是先计算除法，再计算乘法，这种情况下，程序是不会报错的，但显然不是你要的结果。
+
+
+
 
