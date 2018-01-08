@@ -13,5 +13,5 @@
   * [字符串操作](variables-expressions-statements/string-operations.md)
   * [用户主动输入](variables-expressions-statements/asking-the-user-for-input.md)
   * [注释](variables-expressions-statements/comments.md)
-  * [选择变量名](variables-expressions-statements/choosing-mnemonic-variable-names.md)
+  * [选择易记的变量名](variables-expressions-statements/choosing-mnemonic-variable-names.md)
 
