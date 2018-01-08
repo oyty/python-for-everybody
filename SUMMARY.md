@@ -15,4 +15,5 @@
   * [注释](variables-expressions-statements/comments.md)
   * [选择易记的变量名](variables-expressions-statements/choosing-mnemonic-variable-names.md)
   * [调试](variables-expressions-statements/debugging.md)
+  * [练习](variables-expressions-statements/exercises.md)
 
