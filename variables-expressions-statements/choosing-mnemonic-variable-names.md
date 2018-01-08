@@ -40,6 +40,8 @@ for slice in pizza:
 
 **for** word **in** words:
         **print** word
+如上所示，很多文本编辑器支持Python语法，Python保留字一般会用不用形式（加粗或特定颜色）进行区分。
+敲几天代码，你自然就知道什么是保留字什么是变量名。
 
 
 
