@@ -1,3 +1,15 @@
 你可能最常遇见的错误就是变量名不合法了，例如不知道`class`和`yield`是保留字，或者包含不合法字符的变量名`odd~job`、`UD$`等。
 
 如果变量名中存在空格，Python认为它是没有运算符的两个运算对象。
+```python
+>>> bad name = 5
+SyntaxError: invalid syntax
+```
+
+```python
+>>> month = 09
+  File "<stdin>", line 1
+month = 09 ^
+SyntaxError: invalid token
+```
+
