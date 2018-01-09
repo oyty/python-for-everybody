@@ -16,4 +16,16 @@ False
 <class 'bool'>
 ```
 
+`==`是比较运算符中的一个，还有一些其它的比较运算符：
+```python
+x != y  # x不等于y
+x>y     # x大于y
+x<y     # x小于y
+x >= y  # x大于等于y
+x <= y  # x小于等于y
+x is y      # x is the same as y
+x is not y  # x is not the same as y
+```
+
+
 
