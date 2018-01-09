@@ -9,4 +9,16 @@ else:
     print('x and y are equal')
 ```
 
+`elif`语句的数量没有限制，`else`语句必须在链式条件的最后，但是`else`语句不是必须的。
+
+```python
+if choice == 'a': 
+    print('Bad guess')
+elif choice == 'b': 
+    print('Good guess')
+elif choice == 'c':
+    print('Close, but not correct')
+```
+
+
 
