@@ -35,6 +35,16 @@ ValueError: could not convert string to float: 'fred'
 Python内置了`try/except`条件执行结构，用来捕获意料之中和意料之外的异常。如果你觉得某一段程序可能出现问题，并希望在出现这种问题的时候做一些异常处理，那么`try/except`就派上用场了。如果程序没有出错，那么`except`里面的语句块就会被忽略掉。
 你可以把`try/except`功能看作是程序的保险单。
 
+here we are:
+```python
+inp = input('Enter Fahrenheit Temperature:') try:
+    fahr = float(inp)
+    cel = (fahr - 32.0) * 5.0 / 9.0
+    print(cel)
+except:
+    print('Please enter a number')
+```
+
 
 
 
