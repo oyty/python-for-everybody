@@ -7,5 +7,8 @@ True
 False
 ```
 
+`True`或`False`是bool类型的两个值，可不是字符串哦。
+
+
 
 
