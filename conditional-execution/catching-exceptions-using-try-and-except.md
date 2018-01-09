@@ -44,6 +44,20 @@ inp = input('Enter Fahrenheit Temperature:') try:
 except:
     print('Please enter a number')
 ```
+Python首先执行`try`语句块，如果一切顺利，它就会跳过`except`语句块，如果在`try`语句块里面发生意外，Python就会跳出`try`语句块，执行`except`语句块。
+
+```python
+python fahren2.py
+Enter Fahrenheit Temperature:72
+22.22222222222222
+
+python fahren2.py
+Enter Fahrenheit Temperature:fred
+Please enter a number
+```
+用`try`语句处理异常的行为成为异常捕获，这个示例中，`except`语句打印了一条错误提示信息，一般来说，捕获到异常，就是给你一个机会去解决它，或者重新走一遍逻辑，至少程序能正常执行，结束。
+
+
 
 
 
