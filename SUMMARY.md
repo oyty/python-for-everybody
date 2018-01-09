@@ -23,4 +23,5 @@
   * [选择执行](conditional-execution/alternative-execution.md)
   * [链式条件](conditional-execution/chained-conditionals.md)
   * [嵌套条件](conditional-execution/nested-conditionals.md)
+  * [try与except异常捕获](conditional-execution/catching-exceptions-using-try-and-except.md)
 
