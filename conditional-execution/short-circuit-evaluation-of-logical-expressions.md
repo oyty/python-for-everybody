@@ -18,5 +18,23 @@ Traceback (most recent call last):
 ZeroDivisionError: division by zero
 >>>
 ```
-第三次运算出错了，由于`y`等于`0`，Python计算`x/y`时出现运行时错误。
+第三次运算出错了，由于`y`等于`0`，Python计算`x/y`时出现运行时错误。但是第二次计算没有出错，那是因为表达式第一部分`x >= 2`判断为假，所以`x / y`根本没有被执行，所以没有报错。
+
+我们可以在错误发生之前，加一个安全判断：
+```python
+>>> x = 1
+>>> y = 0
+>>> x >= 2 and y != 0 and (x/y) > 2
+False
+>>> x = 6
+>>> y = 0
+>>> x >= 2 and y != 0 and (x/y) > 2
+False
+>>> x >= 2 and (x/y) > 2 and y != 0
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ZeroDivisionError: division by zero
+>>>
+```
+第一个逻辑表达式中`x >= 2`为假，所以在`and`之前判断就停止了。第二个逻辑表达式中`x >= 2`为真，但`y != 0`为假，所以`x / y`没有机会执行。
 
