@@ -26,4 +26,5 @@
   * [try与except异常捕获](conditional-execution/catching-exceptions-using-try-and-except.md)
   * [逻辑表达式的判断](conditional-execution/short-circuit-evaluation-of-logical-expressions.md)
   * [调试](conditional-execution/debugging.md)
+* [函数](functions.md)
 
