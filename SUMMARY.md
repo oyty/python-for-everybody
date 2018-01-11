@@ -32,4 +32,5 @@
   * [类型转换函数](functions/type-conversion-functions.md)
   * [随机数](functions/random-numbers.md)
   * [数学函数](functions/math-functions.md)
+  * [定义新函数](functions/adding-new-functions.md)
 
