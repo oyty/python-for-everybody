@@ -28,4 +28,5 @@
   * [调试](conditional-execution/debugging.md)
 * [函数](functions.md)
   * [函数调用](functions/function-calls.md)
+  * [内建函数](functions/build-in-functions.md)
 
