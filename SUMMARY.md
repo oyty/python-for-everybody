@@ -31,4 +31,5 @@
   * [内建函数](functions/build-in-functions.md)
   * [类型转换函数](functions/type-conversion-functions.md)
   * [随机数](functions/random-numbers.md)
+  * [数学函数](functions/math-functions.md)
 
