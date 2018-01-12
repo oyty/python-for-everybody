@@ -35,4 +35,5 @@
   * [定义新函数](functions/adding-new-functions.md)
   * [定义与用法](functions/definitions-and-uses.md)
   * [执行流程](functions/flow-of-execution.md)
+  * [带返回值的函数和空函数](functions/fruitful-functions-and-void-functions.md)
 
