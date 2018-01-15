@@ -39,4 +39,6 @@
   * [为什么需要函数？](functions/why-functions.md)
   * [调试](functions/debugging.md)
   * [练习](functions/exercises.md)
+* [迭代](iteration.md)
+  * [更新变量](iteration/updating-variables.md)
 
