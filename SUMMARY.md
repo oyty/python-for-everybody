@@ -38,4 +38,5 @@
   * [带返回值的函数和空函数](functions/fruitful-functions-and-void-functions.md)
   * [为什么需要函数？](functions/why-functions.md)
   * [调试](functions/debugging.md)
+  * [练习](functions/exercises.md)
 
