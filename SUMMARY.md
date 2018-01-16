@@ -46,4 +46,5 @@
   * [用continue语句结束迭代](iteration/finishing-iterations-with-continue.md)
   * [使用for语句定义循环](iteration/definite-loops-using-for.md)
   * [循环模式](iteration/loop-patterns.md)
+    * [计数与求和循环](iteration/loop-patterns/counting-and-summing-loops.md)
 
