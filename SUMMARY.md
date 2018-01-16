@@ -43,4 +43,6 @@
   * [更新变量](iteration/updating-variables.md)
   * [while语句](iteration/while-statement.md)
   * [无限循环与break语句](iteration/infinite-loops-and-break.md)
+  * [用continue语句结束迭代](iteration/finishing-iterations-with-continue.md)
+  * [使用for语句定义循环](iteration/definite-loops-using-for.md)
 
