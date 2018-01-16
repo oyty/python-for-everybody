@@ -47,4 +47,5 @@
   * [使用for语句定义循环](iteration/definite-loops-using-for.md)
   * [循环模式](iteration/loop-patterns.md)
     * [计数与求和循环](iteration/loop-patterns/counting-and-summing-loops.md)
+    * [循环找出最大值和最小值](iteration/loop-patterns/maximum-and-minimum-loops.md)
 
