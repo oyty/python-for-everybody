@@ -45,4 +45,5 @@
   * [无限循环与break语句](iteration/infinite-loops-and-break.md)
   * [用continue语句结束迭代](iteration/finishing-iterations-with-continue.md)
   * [使用for语句定义循环](iteration/definite-loops-using-for.md)
+  * [循环模式](iteration/loop-patterns.md)
 
