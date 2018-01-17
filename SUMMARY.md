@@ -52,5 +52,4 @@
   * [练习](iteration/exercises.md)
 * [字符串](strings.md)
   * [字符串序列](strings/a-string-is-a-sequence.md)
-* staticpics
 

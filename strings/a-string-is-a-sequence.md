@@ -24,5 +24,7 @@ b
 >>> letter = fruit[1.5]
 TypeError: string indices must be integers
 ```
+![](/assets/EEBEF35D-E860-4551-8EFB-5AA7AD807F09.png)
+
 
 
