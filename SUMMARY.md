@@ -50,4 +50,7 @@
     * [循环找出最大值和最小值](iteration/loop-patterns/maximum-and-minimum-loops.md)
   * [调试](iteration/debugging.md)
   * [练习](iteration/exercises.md)
+* [字符串](strings.md)
+  * [字符串序列](strings/a-string-is-a-sequence.md)
+* staticpics
 
