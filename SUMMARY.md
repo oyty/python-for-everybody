@@ -52,4 +52,5 @@
   * [练习](iteration/exercises.md)
 * [字符串](strings.md)
   * [字符串序列](strings/a-string-is-a-sequence.md)
+  * [使用len函数获取字符串长度](strings/getting-the-length-of-a-string-using-len.md)
 
