@@ -59,4 +59,5 @@
   * [循环与统计](strings/looping-and-counting.md)
   * [in运算符](strings/the-in-operator.md)
   * [字符串比较](strings/string-comparison.md)
+  * [字符串方法](strings/string-methods.md)
 
