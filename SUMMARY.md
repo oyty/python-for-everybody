@@ -56,4 +56,5 @@
   * [循环遍历字符串](strings/traversal-through-a-string-with-a-loop.md)
   * [字符串切片](strings/string-slices.md)
   * [字符串是不可变的](strings/strings-are-immutable.md)
+  * [循环与统计](strings/looping-and-counting.md)
 
