@@ -63,4 +63,5 @@
   * [字符串解析](strings/parsing-strings.md)
   * [格式化操作符](strings/format-operator.md)
   * [调试](strings/debugging.md)
+  * [练习](strings/exercises.md)
 
