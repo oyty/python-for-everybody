@@ -58,4 +58,5 @@
   * [字符串是不可变的](strings/strings-are-immutable.md)
   * [循环与统计](strings/looping-and-counting.md)
   * [in运算符](strings/the-in-operator.md)
+  * [字符串比较](strings/string-comparison.md)
 
