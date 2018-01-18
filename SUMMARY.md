@@ -62,4 +62,5 @@
   * [字符串方法](strings/string-methods.md)
   * [字符串解析](strings/parsing-strings.md)
   * [格式化操作符](strings/format-operator.md)
+  * [调试](strings/debugging.md)
 
