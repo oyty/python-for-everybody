@@ -21,4 +21,4 @@ uct.ac.za
 这里使用是find方法的一种用法，指定find方法从何处开始寻找。当切分字符串时，我们提取的字符是"位于`@`符号之后但不包括空格"的字符。
 
 find方法的文档：
-`https://docs.python.org/3.5/library/stdtypes.html#string-methods`
+`http://docs.python.org/library/string.html。`
