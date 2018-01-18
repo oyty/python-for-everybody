@@ -78,7 +78,7 @@ True
 
 
 **习题 6.4**
-字符串方法`count`和我们之前练习过的函数类似，请访问https://docs.python.org/3.5/library/stdtypes.html#string-methods，查看这个方法的文档，编写一个方法调用，统计`a`在`banana`中出现的次数。
+字符串方法`count`和我们之前练习过的函数类似，请访问`https://docs.python.org/3.5/library/stdtypes.html#string-methods`，查看这个方法的文档，编写一个方法调用，统计`a`在`banana`中出现的次数。
 
 
 
