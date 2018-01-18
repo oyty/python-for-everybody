@@ -55,4 +55,5 @@
   * [使用len函数获取字符串长度](strings/getting-the-length-of-a-string-using-len.md)
   * [循环遍历字符串](strings/traversal-through-a-string-with-a-loop.md)
   * [字符串切片](strings/string-slices.md)
+  * [字符串是不可变的](strings/strings-are-immutable.md)
 
