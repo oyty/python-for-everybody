@@ -70,4 +70,5 @@
   * [文本文件与文本行](files/text-files-and-lines.md)
   * [读取文件](files/reading-files.md)
   * [搜索文件](files/searching-files.md)
+  * [让用户选择文件名](files/letting-the-user-choose-the-file-name.md)
 
