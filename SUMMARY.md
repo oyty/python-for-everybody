@@ -69,4 +69,5 @@
   * [打开文件](files/opening-files.md)
   * [文本文件与文本行](files/text-files-and-lines.md)
   * [读取文件](files/reading-files.md)
+  * [搜索文件](files/searching-files.md)
 
