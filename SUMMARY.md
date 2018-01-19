@@ -65,6 +65,4 @@
   * [调试](strings/debugging.md)
   * [练习](strings/exercises.md)
 * [文件](files)
-  * [持久性](files/persistence.md)
-  * [打开文件](files/opening-files.md)
 
