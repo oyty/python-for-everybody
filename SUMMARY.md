@@ -72,4 +72,5 @@
   * [搜索文件](files/searching-files.md)
   * [让用户选择文件名](files/letting-the-user-choose-the-file-name.md)
   * [使用try，except和open](files/using-try-except-and-open.md)
+  * [文件写入](files/writing-files.md)
 
