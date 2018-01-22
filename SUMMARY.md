@@ -82,4 +82,5 @@
   * [列表的操作](lists/list-operations.md)
   * [列表切片](lists/list-slices.md)
   * [列表操作方法](lists/list-methods.md)
+  * [删除元素](lists/deleting-elements.md)
 
