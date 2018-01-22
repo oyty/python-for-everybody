@@ -11,7 +11,7 @@ RECEIVED: FROM MURDER (MAIL.UMICH.EDU [141.211.14.90])
 ```
 
 你可以从下面地址下载文件：
-[](/www.py4e.com/code3/mbox-short.txt)
+[www.py4e.com/code3/mbox-short.txt](/www.py4e.com/code3/mbox-short.txt)
 
 
 **习题 7.2**
