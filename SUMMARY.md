@@ -81,4 +81,5 @@
   * [列表的遍历](lists/traversing-a-list.md)
   * [列表的操作](lists/list-operations.md)
   * [列表切片](lists/list-slices.md)
+  * [列表操作方法](lists/list-methods.md)
 
