@@ -75,4 +75,5 @@
   * [文件写入](files/writing-files.md)
   * [调试](files/debugging.md)
   * [练习](files/exercises.md)
+* [列表](lists.md)
 
