@@ -79,4 +79,5 @@
   * [列表即序列](lists/a-list-is-a-sequence.md)
   * [列表是可变的](lists/lists-are-mutable.md)
   * [列表的遍历](lists/traversing-a-list.md)
+  * [列表的操作](lists/list-operations.md)
 
