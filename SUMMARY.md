@@ -76,4 +76,6 @@
   * [调试](files/debugging.md)
   * [练习](files/exercises.md)
 * [列表](lists.md)
+  * [列表即序列](lists/a-list-is-a-sequence.md)
+  * [列表是可变的](lists/lists-are-mutable.md)
 
