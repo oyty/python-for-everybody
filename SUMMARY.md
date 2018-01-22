@@ -74,4 +74,5 @@
   * [使用try，except和open](files/using-try-except-and-open.md)
   * [文件写入](files/writing-files.md)
   * [调试](files/debugging.md)
+  * [练习](files/exercises.md)
 
