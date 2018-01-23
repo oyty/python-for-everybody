@@ -85,4 +85,5 @@
   * [删除元素](lists/deleting-elements.md)
   * [列表和函数](lists/lists-and-functions.md)
   * [列表和字符串](lists/lists-and-strings.md)
+  * [行间解析](lists/parsing-lines.md)
 
