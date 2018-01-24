@@ -87,4 +87,5 @@
   * [列表和字符串](lists/lists-and-strings.md)
   * [行间解析](lists/parsing-lines.md)
   * [对象和值](lists/objects-and-values.md)
+  * [别名引用](lists/aliasing.md)
 
