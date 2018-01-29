@@ -93,4 +93,5 @@
 * [字典](dictionaries.md)
   * [字典作为计数器](dictionaries/dictionary-as-a-set-of-counters.md)
   * [字典和文件](dictionaries/dictionaries-and-files.md)
+  * [循环和字典](dictionaries/looping-and-dictionaries.md)
 
