@@ -91,5 +91,6 @@
   * [列表参数](lists/list-arguments.md)
   * [练习](lists/exercises.md)
 * [字典](dictionaries.md)
-  * [字典作为计算器](dictionaries/dictionary-as-a-set-of-counters.md)
+  * [字典作为计数器](dictionaries/dictionary-as-a-set-of-counters.md)
+  * [字典和文件](dictionaries/dictionaries-and-files.md)
 
