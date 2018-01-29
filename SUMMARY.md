@@ -90,4 +90,5 @@
   * [别名引用](lists/aliasing.md)
   * [列表参数](lists/list-arguments.md)
   * [练习](lists/exercises.md)
+* [字典](dictionaries.md)
 
