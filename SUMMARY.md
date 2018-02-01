@@ -95,4 +95,5 @@
   * [字典和文件](dictionaries/dictionaries-and-files.md)
   * [循环和字典](dictionaries/looping-and-dictionaries.md)
   * [高级文本解析](dictionaries/advanced-text-parsing.md)
+  * [调试](dictionaries/debugging.md)
 
